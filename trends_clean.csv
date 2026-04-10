@@ -1,0 +1,499 @@
+post_id,title,category,score,num_comments,author,collected_at
+47718470,Code is run more than read (2023),technology,27,2,facundo_olano,2026-04-10 15:23:28.635408
+47716490,FBI used iPhone notification data to retrieve deleted Signal messages,technology,288,133,01-_-,2026-04-10 15:23:30.870371
+47704804,How NASA built Artemis II’s fault-tolerant computer,technology,515,195,speckx,2026-04-10 15:23:33.114374
+47713495,A new trick brings stability to quantum operations,technology,191,45,joko42,2026-04-10 15:23:35.356219
+47716809,"Intel 486 CPU announced April 10, 1989",technology,107,93,jnord,2026-04-10 15:23:37.596704
+47712718,I still prefer MCP over skills,technology,329,283,gmays,2026-04-10 15:23:39.827641
+47690609,Deterministic Primality Testing for Limited Bit Width,technology,6,0,ibobev,2026-04-10 15:23:42.057422
+47674894,Model-Based Testing for Dungeons & Dragons,technology,79,35,Firfi,2026-04-10 15:23:44.300705
+47714273,Penguin 'Toxicologists' Find PFAS Chemicals in Remote Patagonia,technology,77,29,giuliomagnifico,2026-04-10 15:23:47.395346
+47708818,Native Instant Space Switching on macOS,science,582,284,PaulHoule,2026-04-10 15:23:49.636126
+47717587,OpenAI backs Illinois bill that would limit when AI labs can be held liable,technology,331,228,smurda,2026-04-10 15:23:51.874859
+47712656,We've raised $17M to build what comes after Git,technology,234,504,ellieh,2026-04-10 15:23:54.394067
+47718458,Tech job relocation market is recovering. The competition is growing faster,technology,31,11,andrewstetsenko,2026-04-10 15:23:56.709090
+47678844,Show HN: Marimo pair – Reactive Python notebooks as environments for agents,technology,65,13,manzt,2026-04-10 15:23:58.946732
+47714573,Artemis II and the invisible hazard on the way to the Moon,technology,61,48,zeristor,2026-04-10 15:24:01.259313
+47680005,DRAM has a design flaw from 1966. I bypassed it [video],technology,328,118,surprisetalk,2026-04-10 15:24:03.512680
+47708697,"Show HN: QVAC SDK, a universal JavaScript SDK for building local AI applications",technology,22,5,qvac,2026-04-10 15:24:05.749503
+47675906,Generative art over the years,technology,204,53,evakhoury,2026-04-10 15:24:07.981187
+47715339,Show HN: Keeper – embedded secret store for Go (help me break it),entertainment,51,26,babawere,2026-04-10 15:24:10.220196
+47718114,US summons bank bosses over cyber risks from Anthropic's latest AI model,technology,20,1,ascold,2026-04-10 15:24:12.462198
+47709158,Charcuterie – Visual similarity Unicode explorer,technology,279,64,rickcarlino,2026-04-10 15:24:14.701724
+47686046,The Art of Risk Management (2017),technology,40,11,walterbell,2026-04-10 15:24:16.936690
+47713744,CollectWise (YC F24) Is Hiring,technology,1,0,OBrien_1107,2026-04-10 15:24:19.560165
+47718804,"Bluesky users are mastering the fine art of blaming everything on ""vibe coding""",technology,16,0,ulrischa,2026-04-10 15:24:21.809126
+47707477,Old laptops in a colo as low cost servers,technology,358,209,argentum47,2026-04-10 15:24:24.051706
+47706140,Unfolder for Mac – A 3D model unfolding tool for creating papercraft,technology,289,55,codazoda,2026-04-10 15:24:26.289786
+47718891,Supply chain nightmare: How Rust will be attacked and what we can do to mitigate,technology,8,1,fanf2,2026-04-10 15:24:28.538924
+47719268,Born Private: Reserve your child's first email address with Proton,technology,5,0,teekert,2026-04-10 15:24:30.783600
+47707632,"Instant 1.0, a backend for AI-coded apps",technology,188,97,stopachka,2026-04-10 15:24:33.019916
+47710466,Kagi Product Tips – Customize Your Search Results with URL Redirects,technology,145,30,treetalker,2026-04-10 15:24:35.258135
+47706141,Research-Driven Agents: When an agent reads before it codes,science,197,51,hopechong,2026-04-10 15:24:37.499938
+47708041,PicoZ80 – Drop-In Z80 Replacement,science,214,33,rickcarlino,2026-04-10 15:24:39.732306
+47718694,"""Negative"" views of Broadcom driving VMware migrations, rival says",worldNews,6,0,breve,2026-04-10 15:24:41.971492
+47717973,The effects of caffeine consumption do not decay with a ~5 hour half-life,worldNews,65,55,swah,2026-04-10 15:24:44.207694
+47674950,An AI robot in my home,worldNews,61,25,kukanani,2026-04-10 15:24:46.570053
+47713113,"The Raft consensus algorithm explained through ""Mean Girls"" (2019)",worldNews,117,27,vermilingua,2026-04-10 15:24:48.812793
+47709130,Reverse engineering Gemini's SynthID detection,worldNews,167,52,_tk_,2026-04-10 15:24:51.050126
+47707762,"Hegel, a universal property-based testing protocol and family of PBT libraries",worldNews,125,39,PaulHoule,2026-04-10 15:24:53.290234
+47697870,LittleSnitch for Linux,worldNews,1332,442,pluc,2026-04-10 15:24:55.526211
+47675731,Principles of Mechanical Sympathy,worldNews,73,18,zdw,2026-04-10 15:24:57.771210
+47691730,I ported Mac OS X to the Nintendo Wii,worldNews,1880,317,blkhp19,2026-04-10 15:25:00.021626
+47713584,"Afrika Bambaataa, hip-hop pioneer, has died",worldNews,171,54,mellosouls,2026-04-10 15:25:02.265376
+47705413,Show HN: I built a Cargo-like build tool for C/C++,entertainment,160,143,randerson_112,2026-04-10 15:25:04.500823
+47702541,A WebGPU implementation of Augmented Vertex Block Descent,entertainment,145,22,juretriglav,2026-04-10 15:25:06.754045
+47660911,Will I ever own a zettaflop?,entertainment,115,82,surprisetalk,2026-04-10 15:25:08.990518
+47710007,Moving from WordPress to Jekyll (and static site generators in general),entertainment,90,52,rgrieselhuber,2026-04-10 15:25:11.224796
+47665890,War on Raze,worldNews,24,14,tosh,2026-04-10 15:25:13.461403
+47689550,"LLM plays an 8-bit Commander X16 game using structured ""smart senses""",sports,26,4,russellharper,2026-04-10 15:25:15.701798
+47687273,Git commands I run before reading any code,sports,2256,486,grepsedawk,2026-04-10 15:25:17.945288
+47670188,Robots eat cars,sports,64,78,JMill,2026-04-10 15:25:20.179293
+47683042,VFX HQ: Visual Effects Headquarters (2000),sports,16,0,exvi,2026-04-10 15:25:22.418392
+47702647,"Launch HN: Relvy (YC F24) – On-call runbooks, automated",entertainment,46,23,behat,2026-04-10 15:25:25.671130
+47695666,Show HN: Druids – Build your own software factory,worldNews,56,12,etherio,2026-04-10 15:25:27.905188
+47716663,White House staff told not to place bets on prediction markets,worldNews,124,72,chrischapman,2026-04-10 15:25:30.150166
+47702196,"Show HN: CSS Studio. Design by hand, code by agent",entertainment,158,97,SirHound,2026-04-10 15:25:32.387040
+47718155,"Anthropic's Claude Mythos isn't a sentient super-hacker, it's a sales pitch",entertainment,4,0,edwardsrobbie,2026-04-10 15:25:34.622682
+47715088,Zero-build privacy policies with Astro,entertainment,11,11,jamie_davenport,2026-04-10 15:25:36.866260
+47717571,Jennifer Aniston and Friends Cost Us 377GB and Broke Ext4 Hardlinks,entertainment,22,10,speckx,2026-04-10 15:25:39.104188
+47706268,EFF is leaving X,entertainment,1359,1195,gregsadetsky,2026-04-10 15:25:41.350937
+47717514,"Inflation Rose to 3.3% in March, Driven by Rising Fuel Costs",sports,8,0,JumpCrisscross,2026-04-10 15:25:43.589504
+47702499,Lichess and Take Take Take Sign Cooperation Agreement,sports,188,57,stevage,2026-04-10 15:25:45.827550
+47703419,Meta removes ads for social media addiction litigation,sports,605,243,giuliomagnifico,2026-04-10 15:25:48.076497
+47701100,Creating the Futurescape for the Fifth Element (2019),sports,125,105,nixass,2026-04-10 15:25:50.312005
+47664524,Sorting Performance Rabbit Hole,sports,5,1,ingve,2026-04-10 15:25:52.557723
+47710835,"Show HN: Rust based eBook library for Python, with MIT license",entertainment,29,3,larry-the-agent,2026-04-10 15:25:54.789313
+47701148,Top laptops to use with FreeBSD,entertainment,317,183,fork-bomber,2026-04-10 15:25:57.032779
+47710149,Microsoft is employing dark patterns to goad users into paying for storage?,entertainment,365,219,jpmitchell,2026-04-10 15:25:59.273183
+47710907,Many African families spend fortunes burying their dead,entertainment,210,201,powera,2026-04-10 15:26:01.535677
+47709251,Netflix Prices Went Up Again – I Bought a DVD Player Instead,sports,234,256,speckx,2026-04-10 15:26:03.776905
+47700972,Reallocating $100/Month Claude Code Spend to Zed and OpenRouter,sports,335,221,kisamoto,2026-04-10 15:26:06.025864
+47716063,Ads in ChatGPT,sports,38,38,cbility,2026-04-10 15:26:08.270191
+47661300,Knit File Formats,sports,18,2,surprisetalk,2026-04-10 15:26:10.515184
+47659135,Sam Altman may control our future – can he be trusted?,sports,2142,902,adrianhon,2026-04-10 15:26:12.758200
+47701233,Claude mixes up who said what,sports,444,339,sixhobbits,2026-04-10 15:26:14.995270
+47661977,Doing Impressions: Monet's Early Caricatures (ca. late 1850s),sports,50,1,prismatic,2026-04-10 15:26:17.226935
+47661972,Small Engines,sports,86,20,surprisetalk,2026-04-10 15:26:19.464622
+47712222,New iPhone age and identity checks restrict internet freedom in the UK,sports,210,134,josephcsible,2026-04-10 15:26:21.699759
+47713265,"Installing OpenBSD on the Pomera DM250{,XY?}",sports,12,1,jandeboevrie,2026-04-10 15:26:23.944731
+47660434,C# in Unity 2026: Writing more modern code,sports,77,98,hacker_13,2026-04-10 15:26:26.183405
+47680061,Building a framework-agnostic Ruby gem (and making sure it doesn't break),sports,51,7,joemasilotti,2026-04-10 15:26:28.421295
+47663743,"Show HN: Moon simulator game, ray-casting",sports,107,24,JKCalhoun,2026-04-10 15:26:31.564063
+47685644,Introduction to Nintendo DS Programming,sports,239,57,medbar,2026-04-10 15:26:33.817312
+47703123,How Pizza Tycoon simulated traffic on a 25 MHz CPU,sports,290,61,FinnKuhn,2026-04-10 15:26:36.052067
+47713839,YouTube locked my accounts and I can't cancel my subscription,sports,144,94,digitalhigh,2026-04-10 15:26:38.292770
+47704285,Clean code in the age of coding agents,sports,57,85,yanis_t,2026-04-10 15:26:40.535528
+47710782,The Training Example Lie Bracket,sports,30,16,pb1729,2026-04-10 15:26:42.768975
+47656730,Understanding Traceroute,sports,170,25,stonecharioteer,2026-04-10 15:26:45.008122
+47701572,"Wit, unker, Git: The lost medieval pronouns of English intimacy",sports,206,134,eigenspace,2026-04-10 15:26:47.245710
+47685320,Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator,sports,606,803,jfirebaugh,2026-04-10 15:26:49.485085
+47699181,Open source security at Astral,sports,359,107,vinhnx,2026-04-10 15:26:51.720340
+47688678,They're made out of meat (1991),sports,626,172,surprisetalk,2026-04-10 15:26:53.963144
+47661297,What does it mean to “write like you talk”?,sports,101,86,surprisetalk,2026-04-10 15:26:56.202015
+47694983,Expanding Swift's IDE Support,sports,138,71,frizlab,2026-04-10 15:26:58.443155
+47651764,How Close Is Too Close? Applying Fluid Dynamics Research Methods to PC Cooling,science,29,7,LabsLucas,2026-04-10 15:27:00.685565
+47703528,"The Future of Everything Is Lies, I Guess: Part 3 – Culture",science,127,99,aphyr,2026-04-10 15:27:02.928825
+47678690,Six (and a half) intuitions for KL divergence,science,109,29,jxmorris12,2026-04-10 15:27:06.241700
+47676561,Teardown of unreleased LG Rollable shows why rollable phones aren't a thing,entertainment,120,56,DamnInteresting,2026-04-10 15:27:08.581094
+47708817,Maine is about to become the first state to ban major new data centers,entertainment,289,411,rmason,2026-04-10 15:27:10.812338
+47658950,Haunted Paper Toys,entertainment,243,31,exvi,2026-04-10 15:27:13.050501
+47695012,USB for Software Developers: An introduction to writing userspace USB drivers,worldNews,401,48,WerWolv,2026-04-10 15:27:15.288233
+47693153,Understanding the Kalman filter with a simple radar example,worldNews,423,65,alex_be,2026-04-10 15:27:17.525644
+47700388,Help Keep Thunderbird Alive,worldNews,553,377,playfultones,2026-04-10 15:27:19.767800
+47704259,"Show HN: Guruka.com – free guided mediations. No signup, private, works offline",entertainment,29,10,eummm,2026-04-10 15:27:22.007769
+47686549,Veracrypt project update,entertainment,1262,491,super256,2026-04-10 15:27:24.245480
+47687248,Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones,entertainment,602,595,ra,2026-04-10 15:27:26.482356
+47679121,Project Glasswing: Securing critical software for the AI era,worldNews,1522,831,Ryan5453,2026-04-10 15:27:28.712868
+47703065,Session is shutting down in 90 days,worldNews,143,172,balamatom,2026-04-10 15:27:30.957088
+47689237,US cities are axing Flock Safety surveillance technology,worldNews,754,426,giuliomagnifico,2026-04-10 15:27:33.192565
+47718763,Nearly half of US data centers planned for 2026 canceled or delayed,worldNews,5,0,vrganj,2026-04-10 15:27:35.436546
+47653642,Binary obfuscation that doesn't kill LTO,worldNews,142,94,noztol,2026-04-10 15:27:37.686814
+47676509,Lunar Flyby,worldNews,956,246,kipi,2026-04-10 15:27:39.926006
+47708411,Bitmap fonts make computers feel like computers again,worldNews,106,80,speckx,2026-04-10 15:27:42.168410
+47689648,ML promises to be profoundly weird,worldNews,603,593,pabs3,2026-04-10 15:27:44.412023
+47680023,Tailslayer: Library for reducing tail latency in RAM reads,worldNews,105,24,hasheddan,2026-04-10 15:27:46.654838
+47712340,Microsoft PhotoDNA scanning problem,worldNews,100,45,darkzek,2026-04-10 15:27:48.906527
+47656518,Your File System Is Already A Graph Database,worldNews,183,75,alxndr,2026-04-10 15:27:51.144327
+47711960,Vibe-Coded Ext4 for OpenBSD,worldNews,11,5,signa11,2026-04-10 15:27:53.385371
+47696035,John Deere to pay $99M in right-to-repair settlement,worldNews,386,127,CharlesW,2026-04-10 15:27:55.622389
+47666639,The Importance of Being Idle,worldNews,308,198,Caiero,2026-04-10 15:27:57.856139
+47704881,The Vercel plugin on Claude Code wants to read your prompts,worldNews,267,109,akshay2603,2026-04-10 15:28:00.089838
+47693679,I've been waiting over a month for Anthropic to respond to my billing issue,worldNews,424,194,nickvec,2026-04-10 15:28:02.331320
+47690977,"Microsoft terminates VeraCrypt account, halting Windows updates",worldNews,585,239,donohoe,2026-04-10 15:28:04.566585
+47700662,Today Is CSS Naked Day,worldNews,39,4,edent,2026-04-10 15:28:06.808071
+47704443,Study found that young adults have grown less hopeful and more angry about AI,science,130,176,elsewhen,2026-04-10 15:28:09.783000
+47716520,Feds Try Secret Grand Jury to Unmask Reddit ICE Critic,science,25,11,cdrnsf,2026-04-10 15:28:12.020742
+47711623,Mexico's President Sheinbaum Decrees Universal Healthcare for 120M,science,50,26,testing22321,2026-04-10 15:28:14.263188
+47718812,Why do we tell ourselves scary stories about AI?,science,28,59,lschueller,2026-04-10 15:28:16.504237
+47663147,Launch HN: Freestyle – Sandboxes for Coding Agents,science,322,156,benswerd,2026-04-10 15:28:18.741336
+47689174,MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU,science,324,56,chrsw,2026-04-10 15:28:20.979780
+47713732,First man convicted under Take It Down Act kept making AI nudes after arrest,science,16,0,tzs,2026-04-10 15:28:23.214573
+47692043,Muse Spark: Scaling towards personal superintelligence,science,390,367,chabons,2026-04-10 15:28:25.459693
+47710919,How the Trivy supply chain attack harvested credentials from secrets managers,science,18,15,Rial_Labs,2026-04-10 15:28:27.696622
+47710845,BunnyCDN has been silently losing our production files for 15 months,science,168,39,speckx,2026-04-10 15:28:29.935623
+47702791,Show HN: 41 years sea surface temperature anomalies,entertainment,144,68,willmeyers,2026-04-10 15:28:32.172369
+47694036,Show HN: Orange Juice – Small UX improvements that make HN easier to read,entertainment,139,157,latchkey,2026-04-10 15:28:34.410198
+47715291,Scientists invented a fake disease. AI told people it was real,entertainment,81,86,latexr,2026-04-10 15:28:36.667825
+47675372,Has electricity decoupled from natural gas prices in Germany?,entertainment,142,227,konschubert,2026-04-10 15:28:38.908703
+47706555,Margin – Open annotation layer for the internet,entertainment,13,3,embedding-shape,2026-04-10 15:28:41.148617
+47685945,We moved Railway's frontend off Next.js. Builds went from 10+ mins to under 2,entertainment,213,213,bundie,2026-04-10 15:28:43.383985
+47712771,"Google's AI Overviews spew false answers per hour, bombshell study reveals",science,22,7,1vuio0pswjnm7,2026-04-10 15:28:45.622700
+47712755,"Detox may erase 10 years of social media brain damage, researchers say",science,31,2,1vuio0pswjnm7,2026-04-10 15:28:47.868880
+47679258,System Card: Claude Mythos Preview [pdf],science,839,650,be7a,2026-04-10 15:28:50.115276
+47654062,Ask HN: Any interesting niche hobbies?,science,457,704,e-topy,2026-04-10 15:28:52.352534
+47696562,Show HN: Is Hormuz open yet?,science,466,204,anonfunction,2026-04-10 15:28:54.593213
+47704687,"A complete GPT language model in ~600 lines of C#, zero dependencies",science,21,4,evo_9,2026-04-10 15:28:56.829811
+47666398,Show HN: A (marginally) useful x86-64 ELF executable in 301 bytes,science,64,19,meribold,2026-04-10 15:28:59.066456
+47708179,Glasses Got Worse on Purpose,science,59,22,chrisaycock,2026-04-10 15:29:01.560127
+47672295,Every GPU That Mattered,science,329,207,jonbaer,2026-04-10 15:29:03.795750
+47705802,Show HN: Mdpdf a 2k line C CLI to convert Markdown to tiny PDFs,science,10,4,bastscho,2026-04-10 15:29:06.036218
+47682276,US and Iran agree to provisional ceasefire,science,601,2015,g-b-r,2026-04-10 15:29:08.279474
+47689165,"Show HN: I pipe free sports streams into Jellyfin – no ads, just HLS",science,114,36,pruz,2026-04-10 15:29:10.516420
+47674606,Show HN: Unicode Steganography,science,55,13,PatrickVuscan,2026-04-10 15:29:12.772832
+47673360,Show HN: Brutalist Concrete Laptop Stand (2024),science,782,235,sam-bee,2026-04-10 15:29:15.023961
+47685739,Revision Demoparty 2026: Razor1911 [video],science,380,132,tetrisgm,2026-04-10 15:29:17.256700
+47677853,GLM-5.1: Towards Long-Horizon Tasks,science,616,262,zixuanlimit,2026-04-10 15:29:19.497016
+47657204,Show HN: We built a camera only robot vacuum for less than $300 (well almost),science,107,55,indraneelpatil,2026-04-10 15:29:21.735901
+47690797,Show HN: Go-Bt: Minimalist Behavior Trees for Go,science,61,12,rvitorper,2026-04-10 15:29:23.973063
+47682719,Xilem – An experimental Rust native UI framework,science,139,86,Levitating,2026-04-10 15:29:26.485996
+47713171,Bun v1.3.12,science,18,4,Erenay09,2026-04-10 15:29:28.725789
+47706560,A Tour of Oodi,science,9,0,zdw,2026-04-10 15:29:30.966743
+47658104,The Image Boards of Hayao Miyazaki,science,202,16,vinhnx,2026-04-10 15:29:33.200418
+47715761,5 Open-Source Projects Running Transformers on CPUs to GPUs in Pure-Modern Java,science,7,2,mikepapadim,2026-04-10 15:29:35.448070
+47708631,"Anthropic Detects Third-Party Clients via System Prompt, Not Headers",science,11,0,mr_cattus,2026-04-10 15:29:37.684358
+47705834,"Little Snitch comes to Linux, but the core logic is closed source",science,76,26,TheIPW,2026-04-10 15:29:39.931129
+47700460,Ask HN: What are you building that's not AI related?,science,128,163,meander_water,2026-04-10 15:29:42.179062
+47678573,Cambodia unveils statue to honour famous landmine-sniffing rat,science,483,130,speckx,2026-04-10 15:29:44.420701
+47710713,"Show HN: Linear RNN/Reservoir hybrid generative model, one C file (no deps.)",science,7,2,adinhitlore,2026-04-10 15:29:48.098556
+47709197,US defense official overseeing AI reaped millions selling xAI stock,science,55,11,malshe,2026-04-10 15:29:50.346911
+47710405,Verification Is the Next Bottleneck in AI-Assisted Development,science,5,2,aray07,2026-04-10 15:29:52.586170
+47654626,A whole boss fight in 256 bytes,science,127,51,HellMood,2026-04-10 15:29:54.830945
+47692661,Show HN: TUI-use: Let AI agents control interactive terminal programs,science,52,37,dreamsome,2026-04-10 15:29:57.062993
+47667321,Peptides: where to begin?,science,263,406,A_D_E_P_T,2026-04-10 15:29:59.308937
+47661038,Show HN: I built a navigation app that displays weather along the route,science,55,25,vkatluri,2026-04-10 15:30:01.551203
+47698512,A Visual Guide to Gemma 4,science,25,1,vismit2000,2026-04-10 15:30:03.790060
+47689319,Show HN: Skrun – Deploy any agent skill as an API,science,60,12,frizull,2026-04-10 15:30:06.029274
+47650887,How to get better at guitar,science,463,257,jwworth,2026-04-10 15:30:08.261359
+47675446,Audio Reactive LED Strips Are Diabolically Hard,science,245,72,surprisetalk,2026-04-10 15:30:10.496348
+47675893,A blind man made it possible for others with low vision to build Lego sets,science,89,14,speckx,2026-04-10 15:30:12.741923
+47715460,Show HN: Hindsight Simulator – Go back in time and get rich,science,10,3,pattle,2026-04-10 15:30:14.979423
+47698067,You Can Just Print an Air Purifier,science,39,9,zdw,2026-04-10 15:30:17.218739
+47675155,You can't cancel a JavaScript promise (except sometimes you can),science,97,61,goodoldneon,2026-04-10 15:30:19.459290
+47657268,A truck driver spent 20 years making a scale model of every building in NYC,science,402,69,1659447091,2026-04-10 15:30:21.806136
+47697641,Claude Managed Agents Overview,science,38,24,NicoJuicy,2026-04-10 15:30:24.043642
+47675625,Cloudflare targets 2029 for full post-quantum security,science,383,112,ilreb,2026-04-10 15:30:26.278091
+47664836,AI helps add 10k more photos to OldNYC,science,143,50,evakhoury,2026-04-10 15:30:28.510016
+47684514,Protect your shed,science,311,81,baely,2026-04-10 15:30:30.771416
+47680124,IPv6 is the only way forward,science,103,321,quaintdev,2026-04-10 15:30:33.006310
+47671219,John Coltrane illustrates the mathematics of jazz,science,134,23,luu,2026-04-10 15:30:35.247662
+47708172,European Service Module,science,6,0,p2detar,2026-04-10 15:30:37.486178
+47711352,Any Open Source projects in need of documentation writer?,science,19,13,tree666,2026-04-10 15:30:39.723191
+47680404,S3 Files,science,374,117,werner,2026-04-10 15:30:41.978539
+47687464,Mario and Earendil,science,67,40,doppp,2026-04-10 15:30:44.227317
+47669337,Solod – A subset of Go that translates to C,science,175,49,TheWiggles,2026-04-10 15:30:46.466578
+47683376,JSIR: A High-Level IR for JavaScript,science,84,32,nnx,2026-04-10 15:30:48.702485
+47681274,Bitcoin and quantum computing,science,168,136,nehan,2026-04-10 15:30:50.941719
+47660766,Exposing and Understanding Scrolling Transfer Functions (2012) [pdf],science,18,0,t23414321,2026-04-10 15:30:53.177228
+47693585,How Costco Won in Japan (2025),science,47,27,gmays,2026-04-10 15:30:55.822691
+47703573,FBI Extracted Deleted Signal Messages Saved in iPhone Notification Database,science,78,25,bjord,2026-04-10 15:30:58.056850
+47676557,Moving fast in hardware: lessons from lab to $100M ARR,science,114,26,rryan,2026-04-10 15:31:00.302306
+47709811,There are zero-day exploits for your mind,science,18,7,mikeyla85,2026-04-10 15:31:02.542956
+47681112,Show HN: An interactive map of Tolkien's Middle-earth,science,288,69,frasermarlow,2026-04-10 15:31:04.778675
+47676065,Things I learned from Reddit fashion,science,24,15,surprisetalk,2026-04-10 15:31:07.015672
+47672884,Identify a London Underground Line just by listening to it,science,182,59,nelson687,2026-04-10 15:31:09.254527
+47705324,Emperor penguin and Antarctic fur seal now endangered,science,157,55,darth_avocado,2026-04-10 15:31:11.499871
+47707253,ChatGPT Pro now starts at $100/month,science,204,239,strongpigeon,2026-04-10 15:31:13.743911
+47672318,Blackholing My Email,science,178,35,semyonsh,2026-04-10 15:31:15.980630
+47651703,Microsoft hasn't had a coherent GUI strategy since Petzold,science,824,574,naves,2026-04-10 15:31:18.217636
+47673005,We found an undocumented bug in the Apollo 11 guidance computer code,science,432,200,henrygarner,2026-04-10 15:31:20.545542
+47675013,Dropping Cloudflare for Bunny.net,science,411,209,shintoist,2026-04-10 15:31:22.783273
+47670981,"Three hundred synths, 3 hardware projects, and one app",science,125,19,ductionist,2026-04-10 15:31:25.023688
+47661065,"The team behind a pro-Iran, Lego-themed viral-video campaign",science,166,264,tantalor,2026-04-10 15:31:27.258019
+47690434,Iran demands Bitcoin fees for ships passing Hormuz during ceasefire,science,172,273,pavlov,2026-04-10 15:31:29.498146
+47677885,Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP,science,229,98,gmac,2026-04-10 15:31:31.739417
+47680309,Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon,science,230,28,MediaSquirrel,2026-04-10 15:31:33.978275
+47679155,Assessing Claude Mythos Preview's cybersecurity capabilities,science,319,53,sweis,2026-04-10 15:31:36.218245
+47660925,Issue: Claude Code is unusable for complex engineering tasks with Feb updates,science,1339,746,StanAngeloff,2026-04-10 15:31:38.459969
+47712739,NewTek Video Toaster Demo Reel,science,13,3,shrubble,2026-04-10 15:31:40.700249
+47672778,Breaking the console: a brief history of video game security,science,96,26,sprado,2026-04-10 15:31:42.940559
+47708641,"Tesla reportedly developing new smaller, cheaper EV after killing Model 2",science,52,38,jethronethro,2026-04-10 15:31:45.182296
+47712151,YouTube Premium just went up to $15.99 / mo (US),science,25,12,tehwebguy,2026-04-10 15:31:47.419072
+47704260,Show HN: Zoneless – Open-source Stripe Connect clone with $0.002 fees using USDC,science,14,6,tinyprojects,2026-04-10 15:31:49.657991
+47655408,Show HN: I built a tiny LLM to demystify how language models work,science,903,134,armanified,2026-04-10 15:31:51.888567
+47699396,Flatpak: Complete Sandbox Escape,science,18,0,eyberg,2026-04-10 15:31:54.129239
+47693047,Claude Managed Agents,science,167,84,adocomplete,2026-04-10 15:31:56.556360
+47666024,Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS,science,466,199,MattHart88,2026-04-10 15:31:58.800658
+47662234,A cryptography engineer's perspective on quantum computing timelines,science,545,248,thadt,2026-04-10 15:32:02.533634
+47674027,Show HN: A cartographer's attempt to realistically map Tolkien's world,science,162,31,intofarlands,2026-04-10 15:32:04.782742
+47652561,Gemma 4 on iPhone,science,862,231,janandonly,2026-04-10 15:32:07.019644
+47697895,Building a JavaScript runtime in one month,science,16,7,franciscop,2026-04-10 15:32:09.257949
+47712921,Retatrutide and 'Emotional Flattening',science,8,1,busymom0,2026-04-10 15:32:11.500546
+47677241,Taste in the age of AI and LLMs,science,263,210,speckx,2026-04-10 15:32:13.760545
+47712238,One Method Was Using 71% of CPU. Here's the Flame Graph,science,10,2,siegers,2026-04-10 15:32:16.002772
+47677142,12k Tons of Dumped Orange Peel Grew into a Landscape Nobody Expected (2017),science,311,123,pulisse,2026-04-10 15:32:18.244093
+47675213,Google open-sources experimental agent orchestration testbed Scion,science,227,59,timbilt,2026-04-10 15:32:20.478574
+47699426,Formal Verification in Any Language for Everybody (lean 4),science,12,4,wazHFsRy,2026-04-10 15:32:22.712155
+47691686,Little Snitch for Linux,science,17,2,robenkleene,2026-04-10 15:32:24.956061
+47712065,Mystery over 8 missing or dead scientific experts,science,8,5,ZunarJ5,2026-04-10 15:32:27.193697
+47691466,Open Source Security at Astral,science,36,4,woodruffw,2026-04-10 15:32:29.434622
+47716503,"Old habits die hard: Microsoft tries to limit our options, this time with AI",science,7,0,01-_-,2026-04-10 15:32:31.667162
+47673379,DeiMOS – A Superoptimizer for the MOS 6502,science,77,17,Aransentin,2026-04-10 15:32:33.940567
+47705904,"Show HN: Logoshi, a brand kit generator for solo founders",science,3,1,sjdegraeve,2026-04-10 15:32:36.181869
+47699086,App Store sees 84% surge in new apps as AI coding tools take off,science,65,74,gardaani,2026-04-10 15:32:38.415624
+47707041,Cached knowledge is not intelligence,science,18,5,speckx,2026-04-10 15:32:40.648257
+47705780,Show HN: BrokenClaw Part 5: GPT-5.4 Edition (Prompt Injection),science,9,2,veganmosfet,2026-04-10 15:32:42.877717
+47660954,German police name alleged leaders of GandCrab and REvil ransomware groups,science,323,160,Bender,2026-04-10 15:32:45.114020
+47692603,Pgfmt – a PostgreSQL specific SQL formatter,science,20,0,whalesalad,2026-04-10 15:32:47.369216
+47700084,"Code Is Cheap Now, and That Changes Everything",science,65,57,v-mdev,2026-04-10 15:32:49.614385
+47696558,Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs,science,15,4,guitarlimeo,2026-04-10 15:32:51.872228
+47681361,Move Detroit,science,70,91,rmason,2026-04-10 15:32:54.106643
+47664186,"Battle for Wesnoth: open-source, turn-based strategy game",science,540,163,akyuu,2026-04-10 15:32:56.341358
+47667717,Anthropic expands partnership with Google and Broadcom for next-gen compute,science,286,127,l1n,2026-04-10 15:32:58.585088
+47705358,AI Cybersecurity After Mythos: The Jagged Frontier,science,8,1,akavel,2026-04-10 15:33:00.822767
+47652007,"Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",science,292,36,karimf,2026-04-10 15:33:03.067367
+47655367,"Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",science,155,22,ikessler,2026-04-10 15:33:05.301805
+47680532,"Cells for NetBSD: kernel-enforced, jail-like isolation",science,54,12,akagusu,2026-04-10 15:33:07.535943
+47652400,Why Switzerland has 25 Gbit internet and America doesn't,science,805,692,sschueller,2026-04-10 15:33:09.774086
+47656501,The 1987 game “The Last Ninja” was 40 kilobytes,science,307,192,keepamovin,2026-04-10 15:33:12.008040
+47658146,France pulls last gold held in US,science,619,360,teleforce,2026-04-10 15:33:14.243992
+47667672,"Show HN: Hippo, biologically inspired memory for AI agents",science,128,29,kitfunso,2026-04-10 15:33:16.492041
+47685685,Acoustic Eavesdropping with Telecom Fiber Optic Cables,science,24,0,Chaucer,2026-04-10 15:33:18.793968
+47687755,Struggle Against the Gods,science,56,6,marcofloriano,2026-04-10 15:33:21.034312
+47673880,Show HN: Pion/handoff – Move WebRTC out of browser and into Go,science,100,17,Sean-Der,2026-04-10 15:33:23.270985
+47698492,Demystifying Open Silicon – Matt Venn Is Democratizing Chip Design,science,8,0,johncole,2026-04-10 15:33:25.505712
+47712975,Resident Evil Requiem with Denuvo DRM Cracked,science,11,4,eternalyxiii,2026-04-10 15:33:27.746205
+47660286,What being ripped off taught me,science,457,224,doctorhandshake,2026-04-10 15:33:29.986590
+47656981,"Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",science,132,72,stevebmark,2026-04-10 15:33:32.229768
+47677882,Are We Legacy Computing Yet?,science,40,1,tyoverby,2026-04-10 15:33:34.477372
+47684811,One Brain to Query: Wiring a 60-Person Company into a Single Slack Bot,science,40,47,meryll_dindin,2026-04-10 15:33:36.714274
+47654629,The Harvard Library Passport,science,40,15,fi-le,2026-04-10 15:33:38.983167
+47649742,Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs,science,219,26,desideratum,2026-04-10 15:33:41.222936
+47708320,UK says Russia ran submarine operation over cables and pipelines,science,13,0,breve,2026-04-10 15:33:43.461402
+47650502,Computational Physics (2nd Edition) (2025),science,184,23,teleforce,2026-04-10 15:33:45.699872
+47695647,The AI Great Leap Forward,science,131,62,jodah,2026-04-10 15:33:47.941881
+47662596,AI singer now occupies eleven spots on iTunes singles chart,science,243,375,flinner,2026-04-10 15:33:50.187208
+47664912,The cult of vibe coding is dogfooding run amok,science,615,508,drob518,2026-04-10 15:33:52.430240
+47684898,Open Models have crossed a threshold,science,30,2,gmays,2026-04-10 15:33:54.672317
+47649721,Artemis II crew see first glimpse of far side of Moon [video],science,523,430,mooreds,2026-04-10 15:33:56.918974
+47703498,White-Collar Workers Are Rebelling Against AI – 80% Refuse Adoption Mandates,science,30,6,sarimkx,2026-04-10 15:33:59.158686
+47662945,Show HN: GovAuctions lets you browse government auctions at once,science,318,90,player_piano,2026-04-10 15:34:01.393248
+47673394,"Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead",science,248,204,Zm44,2026-04-10 15:34:03.624894
+47691174,Show HN: Explore the Silk Roads through an interactive map,science,47,6,intofarlands,2026-04-10 15:34:05.864974
+47673541,AI may be making us think and write more alike,science,231,243,giuliomagnifico,2026-04-10 15:34:08.101172
+47665902,Wikipedia's AI agent row likely just the beginning of the bot-ocalypse,science,71,90,hackernj,2026-04-10 15:34:10.331781
+47709320,YC: Adding Canada Back to Our List of Accepted Countries of Incorporation,science,11,3,sarimkx,2026-04-10 15:34:13.239064
+47660853,Book review: There Is No Antimemetics Division,science,279,227,ibobev,2026-04-10 15:34:15.484006
+47713348,Federal Court Denies Anthropic's Motion to Lift 'Supply Chain Risk' Label,science,4,0,JumpCrisscross,2026-04-10 15:34:17.731642
+47696263,Vera – A language designed for machines to write,science,14,3,joecobb,2026-04-10 15:34:19.966585
+47655392,Show HN: I made a YouTube search form with advanced filters,science,322,202,nevernothing,2026-04-10 15:34:22.252268
+47665245,Agent Reading Test,science,72,23,kaycebasques,2026-04-10 15:34:24.493344
+47694093,"One item purchased, ten emails",science,127,98,speckx,2026-04-10 15:34:26.728767
+47665685,Show HN: TTF-DOOM – A raycaster running inside TrueType font hinting,science,66,12,4RH1T3CT0R,2026-04-10 15:34:28.985650
+47676044,Show HN: Finalrun – Spec-driven testing using English and vision for mobile apps,science,28,12,ashish004,2026-04-10 15:34:31.219829
+47698082,Newly created Polymarket accounts win big on well-timed Iran ceasefire bets,science,164,139,mitchbob,2026-04-10 15:34:33.454414
+47654317,My university uses prompt injection to catch cheaters,science,112,63,varun_ch,2026-04-10 15:34:35.692993
+47651540,Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code,science,404,102,vbtechguy,2026-04-10 15:34:37.924973
+47664389,Intelligent people are better judges of the intelligence of others,science,123,133,01-_-,2026-04-10 15:34:40.173576
+47655466,Employers use your personal data to figure out the lowest salary you'll accept,science,459,293,thisislife2,2026-04-10 15:34:42.407359
+47696210,AMD AI director says Claude Code is becoming dumber and lazier since update,science,51,14,Logans_Run,2026-04-10 15:34:45.237812
+47699090,'There's a lot of desperation': older workers turn to AI training to stay afloat,science,38,9,Stratoscope,2026-04-10 15:34:47.505726
+47710319,BYD teams up with KFC to offer 9 minute EV charging,science,10,1,breve,2026-04-10 15:34:49.748865
+47656622,An open-source 240-antenna array to bounce signals off the Moon,science,259,70,hillcrestenigma,2026-04-10 15:34:51.986368
+47693407,Show HN: 500k+ events/sec transformations for ClickHouse ingestion,science,13,3,super_ar,2026-04-10 15:34:54.227754
+47708245,A World Without People,science,11,1,ryandrake,2026-04-10 15:34:56.467680
+47672362,An Arctic Road Trip Brings Vital Underground Networks into View,science,15,0,ibobev,2026-04-10 15:34:58.707280
+47708195,Screenshots from developers and Unix people taken in 2002,science,8,1,chistev,2026-04-10 15:35:00.958790
+47706113,"Desalination Technology, by the Numbers",science,16,1,Brajeshwar,2026-04-10 15:35:03.189561
+47682444,When the compiler lies: breaking memory safety in safe Go,science,20,0,irke882,2026-04-10 15:35:05.429526
+47713114,OpenAI backs bill to exempt AI firms from harm lawsuits,science,16,2,holografix,2026-04-10 15:35:07.672957
+47665207,SOM: A minimal Smalltalk for teaching of and research on Virtual Machines,science,56,0,tosh,2026-04-10 15:35:09.910029
+47684506,LLM scraper bots are overloading acme.com's HTTPS server,science,68,62,mjyut,2026-04-10 15:35:12.146590
+47655268,"Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",science,100,28,mohshomis,2026-04-10 15:35:14.384139
+47709535,Lethal conflict after group fission in wild chimpanzees,science,8,1,impish9208,2026-04-10 15:35:16.622309
+47690060,Where does all the milk go?,science,39,60,DiffTheEnder,2026-04-10 15:35:18.871377
+47664205,Adobe modifies hosts file to detect whether Creative Cloud is installed,science,335,166,rglullis,2026-04-10 15:35:21.115080
+47695467,Quad9 Enables DNSSEC on All Service Endpoints,science,11,0,bernd289,2026-04-10 15:35:23.350604
+47691313,"Databricks co-founder wins prestigious ACM award, says 'AGI is here already'",science,7,4,salkahfi,2026-04-10 15:35:25.591355
+47707158,DIY MacBook Neo upgrade can boost the SSD to 1TB using iPhone parts,science,10,1,alwillis,2026-04-10 15:35:27.829244
+47702861,Encrypted Client Hello: How it was blocked in Russia and next steps,science,23,6,grittygrease,2026-04-10 15:35:30.071232
+47712606,CPU-Z and HWMonitor official site compromised,science,8,3,eightysixfour,2026-04-10 15:35:32.311750
+47713149,Apple to shutter its first unionized US store in Maryland,science,18,5,golfer,2026-04-10 15:35:34.559126
+47656303,Case study: recovery of a corrupted 12 TB multi-device pool,science,116,64,salt4034,2026-04-10 15:35:36.794761
+47708593,"OpenAI puts Stargate UK on ice, blames energy costs and red tape",science,58,35,Bender,2026-04-10 15:35:39.028836
+47703686,The Moon is on Google Maps–did Artemis II tell us anything new?,science,13,0,voxadam,2026-04-10 15:35:41.270000
+47662116,Sky – an Elm-inspired language that compiles to Go,science,182,90,whalesalad,2026-04-10 15:35:43.504752
+47706482,"AI, Unemployment and Work",science,14,12,speckx,2026-04-10 15:35:45.859285
+47687443,Volunteers turn a fan's recordings of 10K concerts into an online treasure trove,science,9,0,geox,2026-04-10 15:35:48.099711
+47697722,Previously unknown verses by Empedocles found on papyrus,science,6,0,danielam,2026-04-10 15:35:50.344143
+47697679,I built a tool to let you export your X bookmarks and categorize them,science,16,8,xarchive,2026-04-10 15:35:52.577189
+47700821,"Veteran artist behind Mass Effect, Halo, & Overwatch 2 weighs in on Nvidia DLSS5",science,20,4,DarrylLinington,2026-04-10 15:35:54.812064
+47652442,OpenJDK: Panama,science,73,18,tosh,2026-04-10 15:35:57.049802
+47699963,AI Cybersecurity After Mythos: The Jagged Frontier,science,12,8,evelinag,2026-04-10 15:35:59.292970
+47703217,Apple signs meaningless deal to make some less-important parts in America,science,35,16,als0,2026-04-10 15:36:01.527943
+47652322,Music for Programming,science,352,174,merusame,2026-04-10 15:36:03.767064
+47699814,Process Manager for Autonomous AI Agents,science,58,21,ankitg12,2026-04-10 15:36:06.008035
+47689059,Hacking Google Support: Leaking call logs and deanonymising agents,science,15,2,llui85,2026-04-10 15:36:08.284734
+47675271,A Digital Compute-in-Memory Architecture for NFA Evaluation,science,8,1,blakepelton,2026-04-10 15:36:10.532241
+47699504,"Under oath, Frank Lloyd Wright introduced himself as ""world greatest architect""",science,8,5,felipevb,2026-04-10 15:36:12.767188
+47696723,Resurrecting a 1992 MUD with Agentic AI,science,7,0,salt4034,2026-04-10 15:36:14.999182
+47653589,Women were never meant to give birth on their backs,science,83,44,ilt,2026-04-10 15:36:17.248752
+47681566,USD Purchasing Power in Real Time Since 2000,science,77,75,traviswingo,2026-04-10 15:36:19.491007
+47656682,Winners of the 2026 Kokuyo Design Awards,science,57,18,zdw,2026-04-10 15:36:21.731025
+47703398,Hackers exploiting Acrobat Reader zero-day flaw since December,science,11,0,kevcampb,2026-04-10 15:36:23.965156
+47697904,Claude Glass (Or Black Mirror),science,27,4,sram1337,2026-04-10 15:36:26.206063
+47668727,After 20 years I turned off Google Adsense for my websites (2025),science,219,152,datadrivenangel,2026-04-10 15:36:28.444538
+47699105,Show HN: Image to Music AI – Turn Any Photo into an Original Soundtrack,science,5,3,airobus,2026-04-10 15:36:30.675781
+47677660,Hemingway's 4 Fast Rules for Effective Writing,science,24,6,bookofjoe,2026-04-10 15:36:32.911722
+47682908,AI Assistance Reduces Persistence and Hurts Independent Performance,science,19,4,dougb5,2026-04-10 15:36:35.176153
+47715161,France Launches Government Linux Desktop Plan as Windows Exit Begins,science,6,0,doener,2026-04-10 15:36:37.415241
+47662429,Show HN: Weird Clocks,science,52,20,vunderba,2026-04-10 15:36:39.650300
+47669749,Dear Heroku: Uhh What's Going On?,science,107,45,crcastle,2026-04-10 15:36:41.885658
+47710608,FCC considers retroactive ban on foreign hardware,science,6,4,topspin,2026-04-10 15:36:44.129826
+47709123,How Iran's Information War Machine Operates Online,science,6,0,mikhael,2026-04-10 15:36:46.363119
+47698687,"I built a social platform with no karma, no downvotes, and no algorithm",science,4,1,bocksum,2026-04-10 15:36:48.599119
+47704137,OpenAI pulls out of landmark £31B UK investment package,science,27,10,mellosouls,2026-04-10 15:36:50.840065
+47677952,The Blueprint of a North Korean Attack on Open-Source,science,32,12,brene,2026-04-10 15:36:54.617994
+47708607,Cryptographers place $5k bet whether quantum will matter,science,6,1,Bender,2026-04-10 15:36:56.856577
+47667504,Ask HN: How do you handle marketing as a solo technical founder?,science,139,103,lazarkap,2026-04-10 15:36:59.090945
+47688498,Greece to ban under-15s from social media from next year,science,41,23,austinallegro,2026-04-10 15:37:01.326962
+47693678,"The Future of Everything Is Lies, I Guess: Dynamics",science,6,0,rdtsc,2026-04-10 15:37:03.561817
+47688582,Show HN: Voxcode: local speech to text and ripgrep = transcript and code context,science,10,2,jensneuse,2026-04-10 15:37:05.793956
+47708340,Amazon upsets eBook lovers by ending support for old Kindle devices,science,6,0,devonnull,2026-04-10 15:37:08.045545
+47711292,Prototyping turned into an excuse for not thinking,science,5,0,latexr,2026-04-10 15:37:10.285294
+47682956,The BSDs in the AI Age,science,9,0,jaypatelani,2026-04-10 15:37:12.526279
+47698111,Bevy game development tutorials and in-depth resources,science,3,0,GenericCanadian,2026-04-10 15:37:14.770159
+47701971,AI and remote work is a disaster for junior software engineers,science,17,8,gpi,2026-04-10 15:37:17.006486
+47705240,Amazon Is Pulling Support for Kindles from 2012 or Earlier,science,10,6,donatj,2026-04-10 15:37:19.244980
+47682500,USCIS.gov sends user/visitor data to Meta and Google,science,16,1,sricola,2026-04-10 15:37:21.484519
+47654171,The Mechanics of Steins Gate (2023) [pdf],science,95,28,Ariarule,2026-04-10 15:37:23.725616
+47672792,"MemPalace, the highest-scoring AI memory system ever benchmarked",science,63,15,rochoa,2026-04-10 15:37:26.938824
+47649701,Perfmon – Consolidate your favorite CLI monitoring tools into a single TUI,science,60,13,paperplaneflyr,2026-04-10 15:37:29.174068
+47697479,WireGuard VPN developer's Microsoft account locked,science,41,9,worik,2026-04-10 15:37:31.424344
+47652549,Iran's IRGC Publishes Satellite Imagery of OpenAI's $30B Stargate Datacenter,science,76,41,alvivanco,2026-04-10 15:37:33.657605
+47655978,Stamp It: All programs must report their version,science,31,1,gurjeet,2026-04-10 15:37:35.898150
+47710882,Samsung's 2026 Q1 profit increased eightfold to a record $38B,science,6,2,itopaloglu83,2026-04-10 15:37:38.136264
+47681701,RSoC 2026: A new CPU scheduler for Redox OS,science,17,3,akyuu,2026-04-10 15:37:40.377504
+47697147,US court declines to block Pentagon's Anthropic blacklisting for now,science,33,13,spenvo,2026-04-10 15:37:42.616901
+47705952,The Pentagon Threatened Pope Leo XIV's Ambassador with the Avignon Papacy,science,449,299,frm88,2026-04-10 15:37:44.855919
+47661439,I won't download your app. The web version is a-ok,science,925,561,ssiddharth,2026-04-10 15:37:47.096919
+47683613,ICE acknowledges it is using powerful spyware,science,68,8,dnemmers,2026-04-10 15:37:49.460122
+47695616,YouTube starts showing 90-second unskippable ads to TV viewers,science,34,19,Brajeshwar,2026-04-10 15:37:51.705286
+47650312,A tail-call interpreter in (nightly) Rust,science,192,56,g0xA52A2A,2026-04-10 15:37:53.954131
+47662833,Reducto releases Deep Extract,science,50,9,raunakchowdhuri,2026-04-10 15:37:56.195332
+47703619,Betterbird. Simply Better,science,12,1,antsar,2026-04-10 15:37:58.450530
+47687533,I've sold out,science,300,183,doppp,2026-04-10 15:38:00.688877
+47696336,Show HN: I built a local data lake for AI powered data engineering and analytics,science,12,8,vpfaiz,2026-04-10 15:38:02.930567
+47682384,"GLM-5.1 matches Opus 4.6 in agentic performance, at ~1/3 actual cost",science,22,2,skysniper,2026-04-10 15:38:05.165381
+47666488,A macOS bug that causes TCP networking to stop working after 49.7 days,science,169,111,RyanZhuuuu,2026-04-10 15:38:07.403022
+47651479,From birds to brains: My path to the fusiform face area (2024),science,41,0,everbody,2026-04-10 15:38:09.753081
+47654620,"In Japan, the robot isn't coming for your job; it's filling the one nobody wants",science,198,241,rbanffy,2026-04-10 15:38:11.990724
+47709303,The FBI's router takedown that cut off APT28's 'tremendous access',science,6,1,lschueller,2026-04-10 15:38:14.251796
+47695213,Optimal Strategy for Connect 4,science,4,1,marvinborner,2026-04-10 15:38:16.547611
+47708792,Apple Is Permanently Closing Three U.S. Stores in June,science,4,1,jostylr,2026-04-10 15:38:18.786139
+47694354,Verifying Human Authorship with Human.json,science,5,0,j03b,2026-04-10 15:38:21.019685
+47674662,Show HN: A social feed with no algo where communities decide what gets seen,science,10,5,smnkgv,2026-04-10 15:38:23.261556
+47694547,The blue light from your phone isn't ruining your sleep,science,29,10,devonnull,2026-04-10 15:38:25.499227
+47698851,No Taco: This Is Complete US Strategic Failure,science,58,20,JumpCrisscross,2026-04-10 15:38:27.732732
+47682098,Ex-Meta worker investigated for downloading 30k private Facebook photos,science,95,42,1659447091,2026-04-10 15:38:29.977545
+47712641,White House Warns Staff Not to Place Bets on Prediction Markets Amid Iran War,science,11,3,bookofjoe,2026-04-10 15:38:32.909609
+47688712,Ask HN: Should AI credits be refunded on mistakes?,science,16,16,ed_elliott_asc,2026-04-10 15:38:35.151786
+47690950,Show HN: BAREmail – minimalist Gmail client for bad WiFi,science,44,44,Virgo_matt,2026-04-10 15:38:37.391529
+47690049,Amazon rewards loyal Kindle devotees by closing the book on old e-readers,science,39,23,beardyw,2026-04-10 15:38:39.631672
+47682484,Minecraft Java Edition 26.2 Snapshot 1: Initial Vulkan Support,science,14,2,exploraz,2026-04-10 15:38:41.868612
+47674635,A fire sale has U.S. office buildings going for 90% off,science,74,71,blinding-streak,2026-04-10 15:38:44.103112
+47707782,Chrome rolls out hardware-bound session protection to combat infostealer malware,science,3,1,Cider9986,2026-04-10 15:38:46.348838
+47705383,CDC delays publishing report showing Covid vaccine benefits,science,20,2,ceejayoz,2026-04-10 15:38:48.587289
+47698132,Trump administration orders dismantling of the U.S. Forest Service,science,222,53,dxs,2026-04-10 15:38:50.821134
+47703936,Amazon to end support for older Kindles,science,8,7,akpa1,2026-04-10 15:38:53.060948
+47656758,"Make your own ColecoVision at home, part 5",science,25,0,classichasclass,2026-04-10 15:38:55.301409
+47703826,Small Joys of Fatherhood,science,8,0,mrroryflint,2026-04-10 15:38:57.547948
+47681908,Neglect of the modern Invoice,science,10,1,iajiboye,2026-04-10 15:38:59.787289
+47691809,85-token caveman prompt that outperforms the 552-token original,science,8,0,jakguzik,2026-04-10 15:39:02.023887
+47675709,Show HN: The King James Bible deserved a better website,science,11,5,L23234,2026-04-10 15:39:04.969758
+47711049,Amazon Ending Support for Older Kindles: Full List of Affected Devices,science,5,4,rmason,2026-04-10 15:39:07.205771
+47707155,"Japan is rewriting its identity, not just its Constitution",science,4,0,hmmmmmmmmmmmmmm,2026-04-10 15:39:09.446130
+47674234,"""The new Copilot app for Windows 11 is really just Microsoft Edge""",science,116,72,bundie,2026-04-10 15:39:11.687044
+47690962,Cogito: Beautiful AI Markdown Editor for Mac,science,7,0,0xferruccio,2026-04-10 15:39:13.952704
+47684326,OpenAI says its new model GPT-2 is too dangerous to release (2019),science,392,117,surprisetalk,2026-04-10 15:39:16.191178
+47655905,Usenet Archives,science,133,72,myth_drannon,2026-04-10 15:39:18.427932
+47706823,"11,000 Asteroids Spotted in 'Unprecedented' Haul",science,3,0,mooreds,2026-04-10 15:39:20.702847
+47706802,"Why would you want a 64 bit microprocessor, especially in a personal system? (19",science,3,0,fanf2,2026-04-10 15:39:22.940383
+47690415,Show HN: We fingerprinted 178 AI models' writing styles and similarity clusters,science,76,23,nuancedev,2026-04-10 15:39:25.174160
+47699697,"I'm a 30-year veteran SWE, and my industry is currently overrun with addicts",science,17,8,farmerbb,2026-04-10 15:39:27.419774
+47689135,The Empty Middle of AI Coding,science,7,2,comma_at,2026-04-10 15:39:29.666967
+47691108,Wildlife Conservation Police Are Searching Flock Cameras for ICE,science,21,2,lschueller,2026-04-10 15:39:31.911254
+47656659,Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice,science,200,59,MoltenMonster,2026-04-10 15:39:34.237976
+47694303,The demise of software engineering jobs has been greatly exaggerated,science,19,5,ryan_j_naughton,2026-04-10 15:39:36.474849
+47672642,Iran threatens OpenAI's Stargate data center in Abu Dhabi,science,65,1,marksully,2026-04-10 15:39:39.644354
+47707269,What game engines know about data that databases forgot,science,85,56,speckx,2026-04-10 15:39:41.877739
+47695841,Why Are Flock Employees Watching Our Children?,science,32,4,therobots927,2026-04-10 15:39:44.113979
+47662350,Anthropic is burning more and more dev goodwill,science,70,31,tosh,2026-04-10 15:39:46.352641
+47682068,Ralph for Beginners,science,8,2,Vermin2000,2026-04-10 15:39:48.597584
+47704957,Liquid or solid? Oobleck droplets are both,science,5,1,Brajeshwar,2026-04-10 15:39:50.837653
+47710595,The Iran war depleted US weapons. Rebuilding will require China's cooperation,science,11,0,n1b0m,2026-04-10 15:39:53.074800
+47704915,Framework NextGen Event Announcement,science,7,0,starkparker,2026-04-10 15:39:55.310284
+47658617,Show HN: I just built a MCP Server that connects Claude to all your wearables,science,18,13,anton_salcher,2026-04-10 15:39:57.553113
+47706985,SQLite Release 3.53.0,science,12,1,thunderbong,2026-04-10 15:39:59.795282
+47681602,Show HN: Mo – checks GitHub PRs against decisions approved in Slack,science,10,3,oscarcaldera,2026-04-10 15:40:02.034088
+47674056,Show HN: Bx – macOS native sandbox for AI and coding tools,science,7,0,holtwick,2026-04-10 15:40:04.269342
+47686980,Fitting Gemma 4 (~52 GB) into 12 GB,science,4,0,velmu,2026-04-10 15:40:06.524752
+47704366,Responsive images in Hugo using Render Hooks,science,3,0,mijndert,2026-04-10 15:40:08.759062
+47689759,Ask HN: How do you manage your digital legacy for after you die?,science,13,14,orbanlevi,2026-04-10 15:40:11.004592
+47671527,Some iPhone Apps Receive Mysterious Update 'From Apple',science,83,29,tosh,2026-04-10 15:40:13.244385
+47662857,81yo Dodgers fan can no longer get tickets because he doesn't have a smartphone,science,367,476,josephcsible,2026-04-10 15:40:15.480576
+47667798,"Bernie Sanders: ""AI Is a Threat to Everything the American People Hold Dear""",science,77,69,fortran77,2026-04-10 15:40:17.817685
+47712179,Volcanic rock formula cuts cement emissions by two-thirds,science,5,0,geox,2026-04-10 15:40:20.078484
+47704060,Not just spyware scandals: EU is funding the industry that spies on Europeans,science,8,0,latexr,2026-04-10 15:40:22.318032
+47656335,Does coding with LLMs mean more microservices?,science,63,61,jer0me,2026-04-10 15:40:24.558343
+47652324,LibreOffice – Let's put an end to the speculation,science,203,129,eisa01,2026-04-10 15:40:26.799663
+47658743,Number in man page titles e.g. sleep(3),science,127,84,thunderbong,2026-04-10 15:40:29.047127
+47665194,"Zooming UIs in 2026: Prezi, impress.js, and why I built something different",science,100,44,tinchox6,2026-04-10 15:40:31.284567
+47678320,Kindle to end store downloads and registering for 1st-5th gen kindles in May,science,68,72,seam_carver,2026-04-10 15:40:33.530350
+47682419,BYD's luxury EV with 5-min fast charging and 500 miles range is headed overseas,science,22,24,breve,2026-04-10 15:40:35.770387
+47679202,Iranian-Affiliated Cyber Actors Exploit PLCs Across US Critical Infrastructure,science,43,0,jaredwiener,2026-04-10 15:40:38.006735
+47677556,Show HN: A (marginally) useful x86-64 ELF executable in 298 bytes,science,13,0,meribold,2026-04-10 15:40:40.243356
+47649811,"Japanese, French and Omani vessels cross Strait of Hormuz",science,165,243,vrganj,2026-04-10 15:40:42.483926
+47655058,OpenAI's fall from grace as investors race to Anthropic,science,217,151,1vuio0pswjnm7,2026-04-10 15:40:45.890101
+47696925,Why Meter Is Not Essential to Poetry,science,9,0,frogulis,2026-04-10 15:40:48.131703
+47676521,Claude Code login fails with OAuth timeout on Windows,science,222,305,sh1mmer,2026-04-10 15:40:50.370366
+47676075,40 Years Later: Is Milk Still Radioactive?,science,8,0,speckx,2026-04-10 15:40:52.608660
+47693864,You've got 41 days before chip prices skyrocket,science,11,1,speckx,2026-04-10 15:40:54.847351
+47682075,New York Times Got Played by a Telehealth Scam and Called It the Future of AI,science,36,7,hn_acker,2026-04-10 15:40:57.085054
+47688638,"Operation ""Epic Fury"" Deepens Transatlantic Rift: U.S., EU at Odds over Security",science,19,7,vrganj,2026-04-10 15:40:59.327116
+47702576,Leaflet: An open-source JavaScript library for mobile-friendly interactive maps,science,4,0,doener,2026-04-10 15:41:01.575537
+47693436,Brit says he is not elusive Bitcoin creator named by New York Times,science,15,1,Brajeshwar,2026-04-10 15:41:03.821102
+47673208,The Hacker News Tarpit,science,46,4,latexr,2026-04-10 15:41:06.058939
+47712749,xAI sues Colorado over first state AI anti-discrimination law,science,6,2,rmason,2026-04-10 15:41:08.299069
+47683445,Voltage drops when powering a Raspberry Pi4B from a LM2596T regulator,science,4,0,kristianp,2026-04-10 15:41:10.537013
+47702270,An Atari 8-bit Computer Timeline,science,3,0,ibobev,2026-04-10 15:41:12.784183
+47683171,Show HN: Can an AI model fit on a single pixel?,science,8,10,deevelton,2026-04-10 15:41:15.035037
+47695677,US carmakers say proposed EU rules could block large pickup trucks from Europe,science,20,29,comebhack,2026-04-10 15:41:17.271985
+47674749,Hybrid Attention,science,40,9,JohannaAlmeida,2026-04-10 15:41:19.510802
+47682879,We need re-learn what AI agent development tools are in 2026,science,7,0,healsdata,2026-04-10 15:41:21.758052
+47708990,There's a Good Reason You Can't Concentrate,science,8,0,ingve,2026-04-10 15:41:24.000555
+47672914,When Small Parquet Files Become a Big Problem (and How I Wrote a Compactor),science,6,1,olgazju,2026-04-10 15:41:26.234750
+47685704,How the Vision Pro Rollout Inflamed Tensions at Apple,science,16,4,f_allwein,2026-04-10 15:41:28.473226
+47679573,Apple Is Reportedly Facing a 'Massive Dilemma' with the MacBook Neo,science,32,22,thm,2026-04-10 15:41:30.705312
+47682341,"Author's preface to the book: ""PGP Source Code and Internals"" (1995)",science,5,0,ipnon,2026-04-10 15:41:32.941385
+47682310,Midlife Sleep Irregularity Linked to Higher Risk of Major Cardiac Events,science,7,4,gnabgib,2026-04-10 15:41:35.181683
+47664647,Got kicked out of uni and had the cops called for a social media website I made,science,86,303,1whizkid1,2026-04-10 15:41:37.428870
+47693891,Under the hood of MDN's new front end,science,9,0,FelipeCortez,2026-04-10 15:41:39.663595
+47665403,Miracle – A hackable window manager for Linux,science,10,2,matthewkosarek,2026-04-10 15:41:41.896886
+47655480,Make Humans Analog Again,science,11,0,muunbo,2026-04-10 15:41:44.131836
+47681034,Section 4 of the 25th Amendment to the US Constitution,science,24,4,OhMeadhbh,2026-04-10 15:41:46.375848
+47700871,Some Better Defaults for Emacs,science,25,2,fanf2,2026-04-10 15:41:48.614723
+47692291,"Digital Hopes, Real Power: How the Arab Spring Fueled a Global Surveillance Boom",science,12,0,hn_acker,2026-04-10 15:41:52.232190
+47700709,Amazon Cuts Kindle Store Access for 2012 and Older Kindle Models Starting May 20,science,4,1,penguin_booze,2026-04-10 15:41:54.475246
+47662789,Bullshit Debt,science,11,1,abnercoimbre,2026-04-10 15:41:56.721652
+47695761,An active phishing campaign is targeting Rust crate owners,science,5,0,etaweb,2026-04-10 15:41:58.963255
+47704570,Pentagon Threatened the Pope After He Criticized Trump,science,22,10,sleepyguy,2026-04-10 15:42:01.212389
+47658772,How Paris swapped cars for bikes – and transformed its streets,science,52,10,vrganj,2026-04-10 15:42:03.452361
+47670377,MLX-Serve a Native LLM Runtime for Apple Silicon,science,6,1,ddalcu,2026-04-10 15:42:06.705665
+47681241,Anthropic's Project Glasswing sounds necessary to me,science,56,12,simonw,2026-04-10 15:42:08.952633
+47681059,AWS S3 Files,science,19,1,dvrp,2026-04-10 15:42:11.189942
+47700440,Greece announces social media ban for under-15s over anxiety and sleep problems,science,8,0,Growtika,2026-04-10 15:42:13.432074
+47668658,"The back story behind the first ""$1.8B"" dollar ""AI Company""",science,69,9,chermanowicz,2026-04-10 15:42:15.667960
+47709917,Show HN: I built a weather site for the Eastern Caribbean,science,12,0,ashitlerferad,2026-04-10 15:42:17.905024
+47673928,Record wind and solar saved UK from gas imports worth £1B in March 2026,science,119,129,mindracer,2026-04-10 15:42:20.148369
+47690369,Friendship Recession,science,9,4,futurecat,2026-04-10 15:42:22.385699
